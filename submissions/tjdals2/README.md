@@ -17,5 +17,4 @@ javac 21.0.8
 ![alt text](image.png)
 
 실습3 : 개인저장소 URL 
-https://github.com/tjdals2/week01-assignment/tree/week01/tjdals2
-
+https://github.com/tjdals2/likelion.git
